@@ -6,6 +6,14 @@ html, body {
   padding: 0;
 }
 
+html {
+	background: url(https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .container {
   margin: 0 auto;
 }
