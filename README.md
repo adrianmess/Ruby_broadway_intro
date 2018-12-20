@@ -1,9 +1,9 @@
-# README
+# Broadway - Ruby intro project
+### Nothin fancy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="http://www.adriancodes.com/github_images/broadway.jpg">
 
-Things you may want to cover:
+
 
 * Ruby version
 
